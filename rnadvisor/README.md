@@ -42,7 +42,7 @@ sayby77/rnadvisor --config_path=./config.yaml
 
 ### Python file
 
-To use RNAdivosr using the python code, you can use the following command:
+To use RNAdvisor using the python code, you can use the following command:
 
 ```bash
 python src/score_computation.py

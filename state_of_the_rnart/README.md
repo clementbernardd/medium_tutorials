@@ -13,7 +13,7 @@ If you want to run the `RNAdvisor` tool to get the results of the benchmark, you
 git pull sayby77/rnadvisor:latest
 ```
 
-To install the libraries needed for the visualisation, you just need to install `plotly` ans `sklearn` using:
+To install the libraries needed for the visualisation, you just need to install `plotly` and `sklearn` using:
 ```bash
 pip install plotly scikit-learn
 ```
